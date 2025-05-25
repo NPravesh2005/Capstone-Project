@@ -2,8 +2,8 @@
 
 # Capstone Project - Automated expense breakdown and summary
 
-DEVELOPED BY : PRAVESH N
-REG NO :212223230154
+### DEVELOPED BY : PRAVESH N
+### REG NO :212223230154
 
 ## Aim
 To automate the process of reading personal transaction data from a CSV file, categorizing expenses into various groups (Food, Transport, Bills, Others), and generating a summary report with total amounts and current date in an Excel file using UiPath.
